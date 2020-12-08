@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-20T14:16:50 GMT" name="Default suite" finished-at="2020-11-20T14:17:46 GMT" duration-ms="55782">
+    <groups>
+    </groups>
+    <test started-at="2020-11-20T14:16:50 GMT" name="Default test" finished-at="2020-11-20T14:17:46 GMT" duration-ms="55782">
+      <class name="com.test.newtest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.newtest@60704c]" started-at="2020-11-20T14:16:52 GMT" name="setUp" finished-at="2020-11-20T14:17:11 GMT" duration-ms="18736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="halfebaypage(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.newtest@60704c]" started-at="2020-11-20T14:17:11 GMT" name="halfebaypage" data-provider="getTestData" finished-at="2020-11-20T14:17:11 GMT" duration-ms="862" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[s]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tom@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ssddw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfebaypage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.newtest@60704c]" started-at="2020-11-20T14:17:11 GMT" name="tearDown" finished-at="2020-11-20T14:17:12 GMT" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.newtest@60704c]" started-at="2020-11-20T14:17:12 GMT" name="setUp" finished-at="2020-11-20T14:17:22 GMT" duration-ms="9459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="halfebaypage(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.newtest@60704c]" started-at="2020-11-20T14:17:22 GMT" name="halfebaypage" data-provider="getTestData" finished-at="2020-11-20T14:17:23 GMT" duration-ms="921" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[eon]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[c]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[eon@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ghijk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfebaypage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.newtest@60704c]" started-at="2020-11-20T14:17:23 GMT" name="tearDown" finished-at="2020-11-20T14:17:23 GMT" duration-ms="732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.newtest@60704c]" started-at="2020-11-20T14:17:23 GMT" name="setUp" finished-at="2020-11-20T14:17:33 GMT" duration-ms="9761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="halfebaypage(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.newtest@60704c]" started-at="2020-11-20T14:17:33 GMT" name="halfebaypage" data-provider="getTestData" finished-at="2020-11-20T14:17:34 GMT" duration-ms="799" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jon]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[f]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jon@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sshas]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfebaypage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.newtest@60704c]" started-at="2020-11-20T14:17:34 GMT" name="tearDown" finished-at="2020-11-20T14:17:35 GMT" duration-ms="787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.newtest@60704c]" started-at="2020-11-20T14:17:35 GMT" name="setUp" finished-at="2020-11-20T14:17:44 GMT" duration-ms="9294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="halfebaypage(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.newtest@60704c]" started-at="2020-11-20T14:17:44 GMT" name="halfebaypage" data-provider="getTestData" finished-at="2020-11-20T14:17:45 GMT" duration-ms="784" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[peter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[e]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[peter@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ttttt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfebaypage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.newtest@60704c]" started-at="2020-11-20T14:17:45 GMT" name="tearDown" finished-at="2020-11-20T14:17:46 GMT" duration-ms="777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.newtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
